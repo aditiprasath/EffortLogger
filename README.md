@@ -1,4 +1,4 @@
-## Effort Logger
+## Effort Logger (Group Project)
 
 ## Project Overview
 
